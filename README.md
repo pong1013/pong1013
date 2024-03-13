@@ -7,5 +7,5 @@
  
 
 ## 🔨 Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,azure,python,rust,docker,ubuntu,pnpm,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,azure,python,rust,docker,ubuntu,nodejs,pnpm,vscode&perline=10)](https://skillicons.dev)
 
