@@ -9,24 +9,23 @@
 
 
 ## Projects
-### 2024
- **[🔗](https://github.com/pong1013/ecommerce-django) Ecommerce Website**
+ **[🔗](https://github.com/pong1013/ArticleMind-Chat-LangChain)ArticleMind-Chat-LangChain**
 
-    Implementing an E-commerce Website Using Django.
+    Create a web chatbot with your base knowledge.
   
-    📘*tech stack- Django/ Bootstrap/ Ecommerce/ Restful api*
+    📘tech stack- Python/ FastApi/ MongoDB/ Langchain/ React
 
 **[🔗](https://github.com/pong1013/django-scrapy)NBA News Website**
 
     A web application built with Django to schedule and automate the scraping of key news from websites.
 
-    📘*tech stack- Django/ Scrapy/ Celery/ GCP/ SQLite/ Redis*
+    📘tech stack- Django/ Scrapy/ Celery/ GCP/ SQLite/ Redis
 **[🔗](https://github.com/pong1013/kafka-streaming-simulator)Kafka Simulator**
    
     This project simulates clients continuously writing data to a topic. 
     A consumer subscribes to the topic to receive and store data persistently.
     
-    📘*tech stack- Kafka/ Python/ Producer-consumer/ MySQL*
+    📘tech stack- Kafka/ Python/ Producer-consumer/ MySQL
 
 ### 2023
  
