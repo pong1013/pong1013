@@ -13,11 +13,6 @@
 
 
 ## Projects
- **[🔗](https://github.com/pong1013/statefulset-vertical-resizer)Statefulset Vertical Resizer**
- 
-    This project implement the vertically auto-scaling tool, which can resizer the pvc size of statefulset.
-    
-    📘tech stack- Go/ Kubenetes/ Helm/ Docker
 
  **[🔗](https://github.com/pong1013/ArticleMind-Chat-LangChain)ArticleMind-Chat-LangChain**
 
